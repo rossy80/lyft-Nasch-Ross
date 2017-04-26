@@ -9,6 +9,8 @@ footer{
 }
 .listaLinks1{
 	display: inline-block;
+	padding-left: 0;
+	margin-top: 0;
 }
 .listaLinks1 ul{
 	list-style: none;
@@ -26,14 +28,26 @@ footer{
 	list-style: none;
 }
 .imagenes{
-	display: inline-block;
+	float: right;
 }
 .imagenes ul{
 	list-style: none;
+
 }
 .img{
 	height: 20%;
 	width: 20%;
+}
+.aFooter:link{
+    text-decoration: none;
+}
+.aFooter:visited{
+    text-decoration: none;
+    color: #fff;
+}
+.aFooter:hover{
+   	color: magenta;
+    text-decoration: underline;
 }
 .redesSociales ul{
 	list-style: none;
