@@ -1,3 +1,7 @@
+body {
+	height: 100%;
+	width: 100%;
+}
 footer{
 	background-color: #333447;
 	color: #f3f3f5;
@@ -25,5 +29,11 @@ footer{
 	display: inline-block;
 }
 .imagenes ul{
+	list-style: none;
+}
+.redesSociales ul{
+	list-style: none;
+}
+.derechos ul{
 	list-style: none;
 }
