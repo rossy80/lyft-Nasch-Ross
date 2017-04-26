@@ -38,7 +38,9 @@ footer{
 }
 .imagenes ul{
 	list-style: none;
-
+}
+li h4{
+	color: #bfc7d9;
 }
 .img{
 	height: 40%;
