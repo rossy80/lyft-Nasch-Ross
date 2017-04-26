@@ -7,7 +7,7 @@ footer{
 	color: #f3f3f5;
 	font-family: 'Didact Gothic', sans-serif;
 	position: relative;
-	
+
 }
 .listaLinks1{
 	display: inline-block;
@@ -19,7 +19,7 @@ footer{
 	display: inline-block;
 	position: relative;
 	margin-top: 0;
-	
+
 }
 .listaLinks2 ul{
 	list-style: none;
@@ -55,6 +55,9 @@ footer{
 .redesSociales ul{
 	list-style: none;
 }
+.redeS{
+	
+}
 .derechos ul{
 	list-style: none;
 }
@@ -66,5 +69,5 @@ footer{
 	position: relative;
 }
 .derechoS{
-	display: inline-block;	
+	display: inline-block;
 }
