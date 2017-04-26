@@ -34,7 +34,7 @@ footer{
 .imagenes{
 	display: inline-block;
 	position: absolute;
-	margin-left: 40%;	
+	margin-left: 50%;	
 }
 .imagenes ul{
 	list-style: none;
@@ -43,8 +43,9 @@ li h4{
 	color: #bfc7d9;
 }
 .img{
-	height: 40%;
-	width: 40%;
+	height: 30%;
+	width: 30%;
+	padding-top: 5%;
 }
 .aFooter:link{
     text-decoration: none;
