@@ -18,7 +18,7 @@ footer{
 }
 .listaLinks2{
 	display: inline-block;
-	position: absolute;	
+	position: absolute;
 }
 .listaLinks2 ul{
 	list-style: none;
@@ -34,7 +34,7 @@ footer{
 .imagenes{
 	display: inline-block;
 	position: absolute;
-	margin-left: 50%;	
+	margin-left: 50%;
 }
 .imagenes ul{
 	list-style: none;
@@ -61,8 +61,19 @@ li h4{
 .redesSociales ul{
 	list-style: none;
 }
+.redeSociales{
+	position: relative;
+	bottom: 10px;
+	text-align: center;
+}
 .redeS{
-	
+	display: inline-block;
+	margin-left: 20px;
+}
+.reds{
+	position: relative;
+	display: inline-block;
+	left: 530px;
 }
 .derechos ul{
 	list-style: none;
@@ -73,6 +84,8 @@ li h4{
 }
 .derechos{
 	position: relative;
+	bottom: 10px;
+	text-align: center;
 }
 .derechoS{
 	display: inline-block;
