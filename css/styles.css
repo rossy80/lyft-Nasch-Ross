@@ -1,0 +1,29 @@
+footer{
+	background-color: #333447;
+	color: #f3f3f5;
+	font-family: 'Didact Gothic', sans-serif;
+}
+.listaLinks1{
+	display: inline-block;
+}
+.listaLinks1 ul{
+	list-style: none;
+}
+.listaLinks2{
+	display: inline-block;
+}
+.listaLinks2 ul{
+	list-style: none;
+}
+.listaLinks3{
+	display: inline-block;
+}
+.listaLinks3 ul{
+	list-style: none;
+}
+.imagenes{
+	display: inline-block;
+}
+.imagenes ul{
+	list-style: none;
+}
