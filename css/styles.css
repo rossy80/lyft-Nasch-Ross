@@ -58,3 +58,13 @@ footer{
 .derechos ul{
 	list-style: none;
 }
+.lineA{
+	width: 400px;
+	color: white;
+}
+.derechos{
+	position: relative;
+}
+.derechoS{
+	display: inline-block;	
+}
