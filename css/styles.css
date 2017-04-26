@@ -18,7 +18,7 @@ footer{
 }
 .listaLinks2{
 	display: inline-block;
-	position: absolute;
+	position: absolute;	
 }
 .listaLinks2 ul{
 	list-style: none;
@@ -60,6 +60,9 @@ li h4{
 .redesSociales ul{
 	list-style: none;
 }
+.redeS{
+	
+}
 .derechos ul{
 	list-style: none;
 }
@@ -71,5 +74,5 @@ li h4{
 	position: relative;
 }
 .derechoS{
-	display: inline-block;	
+	display: inline-block;
 }
