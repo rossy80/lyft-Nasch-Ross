@@ -1,6 +1,6 @@
-body {
-	height: 100%;
-	width: 100%;
+body{
+    height: 100%;
+    width: 100%
 }
 footer{
 	background-color: #333447;
@@ -30,6 +30,10 @@ footer{
 }
 .imagenes ul{
 	list-style: none;
+}
+.img{
+	height: 20%;
+	width: 20%;
 }
 .redesSociales ul{
 	list-style: none;
